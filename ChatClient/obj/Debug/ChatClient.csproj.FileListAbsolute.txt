@@ -1,0 +1,15 @@
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\bin\Debug\ChatClient.exe
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\bin\Debug\ChatClient.pdb
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\MainWindow.g.cs
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\App.g.cs
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\MainWindow.baml
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.g.resources
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.exe
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.pdb
